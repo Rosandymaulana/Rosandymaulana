@@ -1,7 +1,7 @@
 # Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maulana Rosandy
 
 <br>
-- 📫 How to reach me **rosandy1118@gmail.com**
+- 📫 How to reach me rosandy1118@gmail.com
 
 <br>
 <h3 align="left">Connect with me:</h3>
