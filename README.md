@@ -1,4 +1,4 @@
-# Hi  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Maulana Rosandy
+# Hi I'm Maulana Rosandy
 
 <br>
 - 📫 How to reach me rosandy1118@gmail.com
